@@ -1,0 +1,19 @@
+{
+  "projects": [
+    {
+      "id": "939afac5-c3ad-4869-b6f8-65a2e0604755",
+      "title": "Website Redesign",
+      "description": "Complete overhaul of company website",
+      "status": "in-progress",
+      "priority": "high",
+      "startDate": "2024-01-01T00:00:00.000Z",
+      "endDate": "2024-06-30T00:00:00.000Z",
+      "progress": 45,
+      "team": [],
+      "tasks": [],
+      "tags": ["design", "development"],
+      "createdAt": "2024-01-01T00:00:00.000Z",
+      "updatedAt": "2024-01-01T00:00:00.000Z"
+    }
+  ]
+}
